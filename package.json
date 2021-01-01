@@ -1,0 +1,22 @@
+{
+  "name": "harvard_references",
+  "version": "0.0.1",
+  "description": "Generate Harvard-style reference and citation strings.",
+  "main": "./src/index.js",
+  "keywords": [
+    "harvard",
+    "reference",
+    "references",
+    "bibliography",
+    "citation",
+    "citations",
+    "string",
+    "academic",
+    "generator"
+  ],
+  "author": "Gurtej Singh Birring",
+  "license": "MIT",
+  "dependencies": {
+    "check-types": "^11.1.2"
+  }
+}
